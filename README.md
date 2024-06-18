@@ -19,3 +19,4 @@ Data Visualization: Creating interactive and insightful visualizations.
 DAX (Data Analysis Expressions): Advanced calculations and data manipulation in Power BI.
 
 # Dasboard results 
+![pic](https://github.com/sohammhatre036/Sales-Dashboard-Power-BI/assets/131856125/89d82296-9222-4bee-b4b2-8f2347d06a61)
